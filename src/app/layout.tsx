@@ -11,7 +11,7 @@ import { Open_Sans } from "next/font/google";
 
 
 export const metadata: Metadata = {
-  title: 'CryptoVault - Premium Decentralized Crypto Platform',
+  title: 'CryptoVault by Shubham Soni - Premium Decentralized Crypto Platform',
   description: 'Unlock the future of finance with CryptoVault. Securely manage, trade, and invest in digital assets with advanced features and unparalleled security.',
   keywords: ["crypto, cryptocurrency, blockchain, trading, investment, DeFi, staking, secure wallet, digital assets, Bitcoin, Ethereum"],
   openGraph: {
